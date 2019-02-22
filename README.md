@@ -10,7 +10,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 # Assignment discription
 
 <div dir="rtl" align="right">
-
+با استفاده از متد matches در کلاس String متد های زیر را بنویسد:
 </div>
 
 
